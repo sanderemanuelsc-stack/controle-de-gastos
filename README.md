@@ -20,7 +20,7 @@ Aplicação web para registrar receitas e despesas, acompanhar o saldo e visuali
 
 ## Como usar
 Abra o `index.html` no navegador ou acesse a versão online:
-`https://SEU-USUARIO.github.io/controle-de-gastos/`
+`https://sanderemanuelsc-stack.github.io/controle-de-gastos/`
 
 ## Estrutura
 ```
